@@ -1,7 +1,6 @@
 # Grupo MGO - Desafio Tester Júnior
 
 ![preview](./preview1.png)
-![preview](./preview2.png)
  
 > Teste prático para Analista de QA Júnior
 

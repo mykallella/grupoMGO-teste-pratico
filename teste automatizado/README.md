@@ -8,7 +8,7 @@
  
 ## 📚 Tópicos
 
-- Teste automatizado (https://github.com/mykallella/grupoMGO-teste-pratico/tree/main/teste%20automatizado)
+- Teste automatizado
 
 ## 🔧 Ferramentas e Tecnologias
 

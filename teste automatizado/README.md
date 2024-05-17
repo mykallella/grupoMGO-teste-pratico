@@ -1,8 +1,8 @@
-# Teste automatizado
+# Teste E2E com Python + Selenium
 
 ![preview](./preview1.png)
  
-> Teste E2E com Python + Selenium
+> Teste automatizado E2E com Python + Selenium
 
  Projeto realizado durante o desafio para **Analista de QA Júnior** do grupo **MGO**.
  

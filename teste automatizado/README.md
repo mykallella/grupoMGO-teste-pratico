@@ -19,9 +19,20 @@
 
 ## 🔧 Testes
 
-- Execute `pytest .\tests\test_ct01_login_valido.py` para executar o teste no modo interativo.
-- Execute `pytest .\tests\test_ct02_login_invalido.py` para executar o teste no modo interativo.
-- Execute `pytest .\tests\test_ct03_adicionar_produtos_carrinho.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_1_formulario_valido` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_2_select_sobremesa_mousse_maracuja.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_3_select_sobremesa_pave_passego.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_4_select_sobremesa_sorvete_flocos.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_5_radio_nao_pode_participar.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_6_quantidade_pessoas_comparecerao_mais_de_4.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_7_quantidade_pessoas_comparecerao_numero_negativo.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_8_trazer_mais_de_3.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_9_trazer_outro_sem_informacao.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_10_alergia_mais_de_30.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_11_sem_nome_participante.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_12_sem_confirmacao_se_pode_participar.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_13_sem_informacao_alergia.py` para executar o teste no modo interativo.
+- Execute `pytest .\test_cenario_14_sem_email.py` para executar o teste no modo interativo.
 
 ## 🔗 Contato
 
